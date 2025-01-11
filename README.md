@@ -1,4 +1,4 @@
-# Kinescope Master 2025
+# Kinescope-Downloader-Master-2025
 
 **Описание**  
 Исходный материал для этого проекта был взят из [kinescope-dl](https://github.com/anijackich/kinescope-dl). 
