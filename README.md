@@ -1,5 +1,8 @@
-ДАННАЯ ВЕРСИЯ ТЕЛЕГРАММ БОТА НЕ БОЛЕЕ НЕ ПОДДЕРЖИВАЕТСЯ. ВЫПУЩЕНА ВТОРАЯ ВЕРСИЯ 
-https://github.com/Banshi90/kinescope-master/releases
+**ДАННАЯ ВЕРСИЯ ТЕЛЕГРАММ БОТА НЕ БОЛЕЕ НЕ ПОДДЕРЖИВАЕТСЯ. ВЫПУЩЕНА ВТОРАЯ ВЕРСИЯ** 
+**https://github.com/Banshi90/kinescope-master/releases**
+
+
+
 
 # Kinescope-Downloader-Master-2025
 
