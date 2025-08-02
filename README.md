@@ -27,7 +27,7 @@
 3. **Получите команду для скачивания видео.**  
    Откройте видео на платформе Kinescope. Кликните правой кнопкой мыши по видео и выберите «Сохранить системный журнал».
    Файл будет сохранён с именем `kinescope_player_log_xxxxxxxxxxxxx.json`.  
-   Отправьте этот JSON файл боту: [@Kinescope_Downloader_Video_bot](https://t.me/Kinescope_Downloader_Video_bot).
+   Отправьте этот JSON файл боту: 
    Бот сгенерирует команду для скачивания видео, которая будет выглядеть примерно так:  
    
    & "C:\kinescope-master\bin\Python\python-3.11.9.amd64\python.exe" "C:\kinescope-master\kinescope-dl.py" -r "https://адрес_сайта" --best-quality --ffmpeg-path "C:\\kinescope-master\\bin\\ffmpeg.exe" --mp4decrypt-path "C:\\kinescope-master\\bin\\mp4decrypt.exe" "https://kinescope.io/id_видео" "название_видео.mp4"
@@ -44,4 +44,4 @@
 https://t.me/kinescope_downloader
 
 **Бот для генерации команд для скачивания видео:**
-https://t.me/Kinescope_Downloader_Video_bot
+------------------------------------------------
